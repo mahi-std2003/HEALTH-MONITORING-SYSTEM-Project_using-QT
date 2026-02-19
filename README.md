@@ -28,8 +28,12 @@ It helps users monitor health parameters and manage doctor appointments through 
 ---
 
 ##  Database  
-Stores user data, health records, appointments, and goals using SQLite.
-
+The system uses an SQLite database to store:  
+- User information  
+- Health monitoring records  
+- Appointment details  
+- Health goals and plans
+  
 ---
 
 ##  How to Run  
@@ -40,10 +44,11 @@ Stores user data, health records, appointments, and goals using SQLite.
 ---
 
 ##  Team Members  
-- Asliraf Samayran (C233446)  
-- Suraia Tabassoom Ruhi (C233473)  
-- Sumaia Tarannoom Mahi (C233474)  
+- Asliraf Samayran  
+- Suraia Tabassoom Ruhi  
+- Sumaia Tarannoom Mahi  
 
 ---
+
 ##  Conclusion  
 This application provides an easy way to track health data and manage medical appointments.
